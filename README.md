@@ -1,4 +1,8 @@
 fb-chat-icons-big-message
 =========================
 
-facebook chat icons app
+Idea for simple little app
+
+Take the small icons from fb chat and create an app that will print out a word in random repeated icons
+
+Like MD 'YES' 
